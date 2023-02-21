@@ -1,0 +1,40 @@
+* {
+  background: linear-gradient(to right, #F9F5E7 , #F8EAD8 );
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  line-break: 20px;
+}
+
+.lp-image img {
+  border-radius: 50%;
+  margin-top: 15vh;
+}
+
+.lp-nick {
+  font-size: 25px;
+  margin-top: 5px;
+}
+
+.lp-links a {
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  display: inline-block;
+  width: 40%;
+  padding: 2px 20px;
+  border: 2px solid ;
+  border-radius: 20px;
+  color: #609EA2;
+}
+
+.small-logo a{
+  font-size: 30px;
+  word-spacing: 5px;
+  color: #698269;
+}
+
+footer {
+  font-size: 15px;
+}
+
