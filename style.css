@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+}
+
+body {
+  background: linear-gradient(to right, #176B87 , #64CCC5 );
+}
+.lp-image img {
+  border-radius: 50%;
+  margin-top: 15vh;
+}
+
+.lp-nick {
+  font-size: 25px;
+  margin-top: 5px;
+}
+
+.lp-links a {
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  display: inline-block;
+  width: 40%;
+  padding: 2px 15px;
+  border: 2px solid ;
+  border-radius: 20px;
+  color: #FDA769;
+}
+
+.small-logo a{
+  font-size: 30px;
+  word-spacing: 5px;
+  color: #F1C27B;
+}
+
+footer {
+  font-size: 15px;
+}
+
